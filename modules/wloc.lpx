@@ -2,7 +2,7 @@
 #!desc=修改 Apple 网络定位返回坐标，打开设置页面选点即可生效
 #!icon=https://raw.githubusercontent.com/Lululu-0715/wloc/refs/heads/main/wloc.jpg
 #!author=Lululu-0715
-#!homepage=https://github.com/Lululu-0715/wloc
+#!homepage=https://github.com/Lululu-0715/wlocccc
 #!openUrl=https://wloc-1993.575613136.workers.dev/
 
 [Argument]
