@@ -1,7 +1,7 @@
 #!name=Apple WLOC 定位修改
 #!desc=修改 Apple 网络定位返回坐标 | 选点页面: https://wloc-1993.575613136.workers.dev/
 #!author=Lululu-0715
-#!homepage=https://github.com/Lululu-0715/wloc
+#!homepage=https://github.com/Lululu-0715/wlocccc
 #!category=Tools
 #!arguments=经度:113.94114, 纬度:22.544577, 精度:25, 日志级别:info
 #!arguments-desc=经度/纬度: 默认坐标(在线选点储存后优先)\n精度: GPS精度(米)\n日志级别: off/error/warn/info/debug/all\n\n使用方法: 打开选点页面 -> 选位置 -> 储存到设备
